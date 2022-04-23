@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Tatev000
+- 👋 Hi, I’m @TatevZadoyan
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning HTML, CSS, JS
+- 🌱 I’m currently learning HTML, CSS, JS, NodeJS
 - 💞️ I’m looking to collaborate on any project I can use my knowledge
 - 📫 How to reach me via e-mail: tzadoyan@gmail.com
 
